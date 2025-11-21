@@ -1,4 +1,13 @@
 # House Price Prediction using Linear Regression
+## Group members
+
+| No. | Name                 | ID   |
+|-----|---------------------|------|
+| 1   | Netsanet Degu       | 1342 |
+| 2   | Dagmawi Menilk      | 1316 |
+| 3   | Yordanos Wondale    | 1350 |
+| 4   | Eyerusalem Zeray    | 0989 |
+| 5   | Medahnit Chernet    | 1517 |
 
 ## Project Overview
 This project aims to predict housing prices in California using a linear regression model. The dataset contains housing information such as median income, number of rooms, population, and proximity to the ocean. The objective is to explore the data, clean it, perform exploratory data analysis (EDA), build a predictive model, and evaluate its performance.
